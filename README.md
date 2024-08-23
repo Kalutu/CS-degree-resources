@@ -6,11 +6,11 @@ Welcome to the **CS-Notes-Collection** repository! This repository is dedicated 
 
 This repository includes notes on a range of computer science topics, such as:
 
-- **Programming Languages:** Python, Java, C++, etc.
-- **Data Structures and Algorithms**
-- **Computer Systems and Architecture**
+- **Web Development**
 - **Database Systems**
 - **Software Engineering**
+- **Programming Languages:** Python, Java, C++, etc.
 - **Networking and Security**
+- **Data Structures and Algorithms**
+- **Computer Systems and Architecture**
 - **Artificial Intelligence and Machine Learning**
-- **Web Development**
