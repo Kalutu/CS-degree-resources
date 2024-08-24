@@ -1,0 +1,16 @@
+LINKS
+1. https://www.tutorialspoint.com/data_structures_algorithms/dynamic_programming.htm#:~:text=Dynamic%20programming%20is%20used%20where,the%20previously%20solved%20sub%2Dproblems.
+
+2. https://www.simplilearn.com/tutorials/data-structure-tutorial/greedy-algorithm
+
+3.
+
+CODE
+INSERTION ALGORITHM
+numbers = [8, 2, 4, 9, 3, 6]
+
+sorted_numbers = sorted(numbers)
+
+print("Sorted Numbers in Ascending Order:")
+for number in sorted_numbers:
+print(number)
